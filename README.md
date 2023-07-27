@@ -1,5 +1,5 @@
 # heart-disease-prediction
-### Report (PDF): *[Predicting Heart Disease](https://github.com/tdewing19/heart-disease-prediction/blob/main/Heart_Disease_Prediction.pdf)* 
+### Report (PDF): *[Predicting Heart Disease](https://github.com/tdewing19/heart-disease-prediction/blob/main/Heart_Disease_Prediction.pdf)* 🫀
 
 <p align="center">
   <img src="https://buzzrx.s3.amazonaws.com/1ac6c8f4-059d-44b3-81fa-6827559ed545/6CausesofHeartDisease.png"/>
